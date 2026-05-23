@@ -1,0 +1,55 @@
+aid: skild-ai
+name: Skild AI
+description: >-
+  Skild AI is a Pittsburgh-founded robotics AI company developing the Skild
+  Brain, a general-purpose, omni-bodied physical AI system intended to
+  control many different robot embodiments across many tasks without being
+  tied to a specific hardware design. The company is initially targeting
+  three application platforms: security and inspection robots that can
+  navigate dangerous environments, mobile manipulation systems combining
+  grasping and navigation, and autonomous packing with dexterous skills.
+  Skild publishes a research blog discussing topics such as learning from
+  humans and video data. The company is backed by Sequoia, General Catalyst,
+  Felicis, SoftBank, Bezos Expeditions, and other investors. Skild AI does
+  not currently publish a public API, SDK, model weights, or developer
+  documentation; commercial engagement appears to run through direct
+  partnerships and pilots.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Robotics
+  - Foundation Models
+  - Embodied AI
+  - Robot Brain
+  - General-Purpose Robotics
+  - Mobile Manipulation
+  - Security Robots
+  - Inspection Robots
+  - Learning From Video
+  - Pittsburgh
+  - Skild Brain
+url: https://raw.githubusercontent.com/api-evangelist/skild-ai/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.skild.ai
+  - type: Blog
+    url: https://www.skild.ai/blogs
+  - type: Careers
+    url: https://www.skild.ai/career
+  - type: Contact
+    url: https://www.skild.ai/contact
+  - type: Twitter
+    url: https://twitter.com/SkildAI
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/skild-ai
+  - type: Instagram
+    url: https://www.instagram.com/skild.ai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
